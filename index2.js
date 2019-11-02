@@ -25,4 +25,3 @@ rl.question('> ', (sentence) => {
     console.log(`Category: ${output}`);
     rl.close()
 })
-
